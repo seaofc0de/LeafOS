@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/seaofc0de/LeafOS/blob/assets/logo.png" alt="Logo" height="150dp">
+  <img src="https://github.com/seaofc0de/LeafOS/blob/assets/logo.png" alt="Logo" height="100dp">
 
 ---
 # LeafOS
