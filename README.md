@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://github.com/seaofc0de/LeafOS/blob/assets/logo.jpeg" alt="Logo" height="150dp">
-  <h1 align="center">AndroVM</h1>
-  <b>AndroVM</b> is a lightweight simulated virtual machine environment built for Android devices.  
-It mimics a minimal Android system within a secure sandboxed UI.
+  <img src="https://github.com/seaofc0de/LeafOS/blob/assets/logo.png" alt="Logo" height="150dp">
 
 ---
 # LeafOS
