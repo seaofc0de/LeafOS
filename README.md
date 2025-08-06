@@ -24,7 +24,6 @@ It runs directly on hardware or virtual machines, providing a minimal yet effect
 
 - Small and fast execution footprint  
 - Flexible for embedded systems or UI-driven applications  
-- Understandable and hackable for low-level developers  
 - Compatible with both physical and virtual ARM platforms  
 
 ---
